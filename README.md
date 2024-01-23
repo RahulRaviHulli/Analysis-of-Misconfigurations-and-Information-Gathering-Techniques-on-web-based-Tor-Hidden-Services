@@ -6,8 +6,8 @@ The act of disclosing the true identity or location of a user or service using t
 
 ## Distribution of the Repository
 The files have been arranged as below  
-1: Final Project Report: Contains the report of our research.  
-2: Mid Project Report: Contains the reported tailored for a mid project review.  
-3: Research Document: Contains files which hold the information obtained during the research.  
-4: Research Raw Data: Contains important files and data obtained during the research, it may be in a cluttered manner.  
-5: Readme.md: This file.  
+1: **Final Project Report**: Contains the report of our research.  
+2: **Mid Project Report**  : Contains the reported tailored for a mid project review.  
+3: **Research Document**   : Contains files which hold the information obtained during the research.  
+4: **Research Raw Data**   : Contains important files and data obtained during the research, it may be in a cluttered manner.  
+5: **Readme.md**           : This file.  
